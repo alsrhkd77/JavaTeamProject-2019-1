@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<BugCollection version="3.1.6" sequence="0" timestamp="1559584288267" analysisTimestamp="1559584448952" release="">
+  <Project>
+    <Jar>D:\&#49688;&#50629;\&#49548;&#54532;&#53944;&#50920;&#50612;&#49444;&#44228;&#44277;&#54617;\Git\Fridge\target\classes\TestDrive.class</Jar>
+    <Jar>D:\&#49688;&#50629;\&#49548;&#54532;&#53944;&#50920;&#50612;&#49444;&#44228;&#44277;&#54617;\Git\Fridge\target\classes\ApiManager\ApiManager.class</Jar>
+    <Jar>D:\&#49688;&#50629;\&#49548;&#54532;&#53944;&#50920;&#50612;&#49444;&#44228;&#44277;&#54617;\Git\Fridge\target\classes\ApiManager\FindFoodInfo.class</Jar>
+    <Jar>D:\&#49688;&#50629;\&#49548;&#54532;&#53944;&#50920;&#50612;&#49444;&#44228;&#44277;&#54617;\Git\Fridge\target\classes\ApiManager\FindIngredient.class</Jar>
+    <Jar>D:\&#49688;&#50629;\&#49548;&#54532;&#53944;&#50920;&#50612;&#49444;&#44228;&#44277;&#54617;\Git\Fridge\target\classes\ApiManager\FindRecipe.class</Jar>
+    <Jar>D:\&#49688;&#50629;\&#49548;&#54532;&#53944;&#50920;&#50612;&#49444;&#44228;&#44277;&#54617;\Git\Fridge\target\classes\ApiManager\GetInfo.class</Jar>
+    <Jar>D:\&#49688;&#50629;\&#49548;&#54532;&#53944;&#50920;&#50612;&#49444;&#44228;&#44277;&#54617;\Git\Fridge\target\classes\ApiManager\IngredientPrice.class</Jar>
+    <Jar>D:\&#49688;&#50629;\&#49548;&#54532;&#53944;&#50920;&#50612;&#49444;&#44228;&#44277;&#54617;\Git\Fridge\target\classes\ApiManager\ServiceKey.class</Jar>
+    <Jar>D:\&#49688;&#50629;\&#49548;&#54532;&#53944;&#50920;&#50612;&#49444;&#44228;&#44277;&#54617;\Git\Fridge\target\classes\dataSet\Aggregate.class</Jar>
+    <Jar>D:\&#49688;&#50629;\&#49548;&#54532;&#53944;&#50920;&#50612;&#49444;&#44228;&#44277;&#54617;\Git\Fridge\target\classes\dataSet\Builder.class</Jar>
+    <Jar>D:\&#49688;&#50629;\&#49548;&#54532;&#53944;&#50920;&#50612;&#49444;&#44228;&#44277;&#54617;\Git\Fridge\target\classes\dataSet\Food.class</Jar>
+    <Jar>D:\&#49688;&#50629;\&#49548;&#54532;&#53944;&#50920;&#50612;&#49444;&#44228;&#44277;&#54617;\Git\Fridge\target\classes\dataSet\FoodBuilder.class</Jar>
+    <Jar>D:\&#49688;&#50629;\&#49548;&#54532;&#53944;&#50920;&#50612;&#49444;&#44228;&#44277;&#54617;\Git\Fridge\target\classes\dataSet\FoodIterator.class</Jar>
+    <Jar>D:\&#49688;&#50629;\&#49548;&#54532;&#53944;&#50920;&#50612;&#49444;&#44228;&#44277;&#54617;\Git\Fridge\target\classes\dataSet\FoodSet.class</Jar>
+    <Jar>D:\&#49688;&#50629;\&#49548;&#54532;&#53944;&#50920;&#50612;&#49444;&#44228;&#44277;&#54617;\Git\Fridge\target\classes\dataSet\Ingredient.class</Jar>
+    <Jar>D:\&#49688;&#50629;\&#49548;&#54532;&#53944;&#50920;&#50612;&#49444;&#44228;&#44277;&#54617;\Git\Fridge\target\classes\dataSet\IngredientBuilder.class</Jar>
+    <Jar>D:\&#49688;&#50629;\&#49548;&#54532;&#53944;&#50920;&#50612;&#49444;&#44228;&#44277;&#54617;\Git\Fridge\target\classes\dataSet\IngredientList.class</Jar>
+    <Jar>D:\&#49688;&#50629;\&#49548;&#54532;&#53944;&#50920;&#50612;&#49444;&#44228;&#44277;&#54617;\Git\Fridge\target\classes\dataSet\IngredientPriceSet.class</Jar>
+    <Jar>D:\&#49688;&#50629;\&#49548;&#54532;&#53944;&#50920;&#50612;&#49444;&#44228;&#44277;&#54617;\Git\Fridge\target\classes\dataSet\Iterator.class</Jar>
+    <Jar>D:\&#49688;&#50629;\&#49548;&#54532;&#53944;&#50920;&#50612;&#49444;&#44228;&#44277;&#54617;\Git\Fridge\target\classes\dataSet\Recipe.class</Jar>
+    <Jar>D:\&#49688;&#50629;\&#49548;&#54532;&#53944;&#50920;&#50612;&#49444;&#44228;&#44277;&#54617;\Git\Fridge\target\classes\dataSet\RecipeIterator.class</Jar>
+    <Jar>D:\&#49688;&#50629;\&#49548;&#54532;&#53944;&#50920;&#50612;&#49444;&#44228;&#44277;&#54617;\Git\Fridge\target\classes\dataSet\RecipeSet.class</Jar>
+    <Jar>D:\&#49688;&#50629;\&#49548;&#54532;&#53944;&#50920;&#50612;&#49444;&#44228;&#44277;&#54617;\Git\Fridge\target\classes\dataSet\RecipeSetBuilder.class</Jar>
+    <Jar>D:\&#49688;&#50629;\&#49548;&#54532;&#53944;&#50920;&#50612;&#49444;&#44228;&#44277;&#54617;\Git\Fridge\target\classes\FileManager\FileManager.class</Jar>
+    <Jar>D:\&#49688;&#50629;\&#49548;&#54532;&#53944;&#50920;&#50612;&#49444;&#44228;&#44277;&#54617;\Git\Fridge\target\classes\FileManager\ReadFile.class</Jar>
+    <Jar>D:\&#49688;&#50629;\&#49548;&#54532;&#53944;&#50920;&#50612;&#49444;&#44228;&#44277;&#54617;\Git\Fridge\target\classes\FileManager\SaveFile.class</Jar>
+    <Jar>D:\&#49688;&#50629;\&#49548;&#54532;&#53944;&#50920;&#50612;&#49444;&#44228;&#44277;&#54617;\Git\Fridge\target\classes\gui\AddIngredient.class</Jar>
+    <Jar>D:\&#49688;&#50629;\&#49548;&#54532;&#53944;&#50920;&#50612;&#49444;&#44228;&#44277;&#54617;\Git\Fridge\target\classes\gui\AddIngredient$1.class</Jar>
+    <Jar>D:\&#49688;&#50629;\&#49548;&#54532;&#53944;&#50920;&#50612;&#49444;&#44228;&#44277;&#54617;\Git\Fridge\target\classes\gui\AddIngredient$10.class</Jar>
+    <Jar>D:\&#49688;&#50629;\&#49548;&#54532;&#53944;&#50920;&#50612;&#49444;&#44228;&#44277;&#54617;\Git\Fridge\target\classes\gui\AddIngredient$11.class</Jar>
+    <Jar>D:\&#49688;&#50629;\&#49548;&#54532;&#53944;&#50920;&#50612;&#49444;&#44228;&#44277;&#54617;\Git\Fridge\target\classes\gui\AddIngredient$12.class</Jar>
+    <Jar>D:\&#49688;&#50629;\&#49548;&#54532;&#53944;&#50920;&#50612;&#49444;&#44228;&#44277;&#54617;\Git\Fridge\target\classes\gui\AddIngredient$13.class</Jar>
+    <Jar>D:\&#49688;&#50629;\&#49548;&#54532;&#53944;&#50920;&#50612;&#49444;&#44228;&#44277;&#54617;\Git\Fridge\target\classes\gui\AddIngredient$14.class</Jar>
+    <Jar>D:\&#49688;&#50629;\&#49548;&#54532;&#53944;&#50920;&#50612;&#49444;&#44228;&#44277;&#54617;\Git\Fridge\target\classes\gui\AddIngredient$15.class</Jar>
+    <Jar>D:\&#49688;&#50629;\&#49548;&#54532;&#53944;&#50920;&#50612;&#49444;&#44228;&#44277;&#54617;\Git\Fridge\target\classes\gui\AddIngredient$16.class</Jar>
+    <Jar>D:\&#49688;&#50629;\&#49548;&#54532;&#53944;&#50920;&#50612;&#49444;&#44228;&#44277;&#54617;\Git\Fridge\target\classes\gui\AddIngredient$17.class</Jar>
+    <Jar>D:\&#49688;&#50629;\&#49548;&#54532;&#53944;&#50920;&#50612;&#49444;&#44228;&#44277;&#54617;\Git\Fridge\target\classes\gui\AddIngredient$2.class</Jar>
+    <Jar>D:\&#49688;&#50629;\&#49548;&#54532;&#53944;&#50920;&#50612;&#49444;&#44228;&#44277;&#54617;\Git\Fridge\target\classes\gui\AddIngredient$3.class</Jar>
+    <Jar>D:\&#49688;&#50629;\&#49548;&#54532;&#53944;&#50920;&#50612;&#49444;&#44228;&#44277;&#54617;\Git\Fridge\target\classes\gui\AddIngredient$4.class</Jar>
+    <Jar>D:\&#49688;&#50629;\&#49548;&#54532;&#53944;&#50920;&#50612;&#49444;&#44228;&#44277;&#54617;\Git\Fridge\target\classes\gui\AddIngredient$5.class</Jar>
+    <Jar>D:\&#49688;&#50629;\&#49548;&#54532;&#53944;&#50920;&#50612;&#49444;&#44228;&#44277;&#54617;\Git\Fridge\target\classes\gui\AddIngredient$6.class</Jar>
+    <Jar>D:\&#49688;&#50629;\&#49548;&#54532;&#53944;&#50920;&#50612;&#49444;&#44228;&#44277;&#54617;\Git\Fridge\target\classes\gui\AddIngredient$7.class</Jar>
+    <Jar>D:\&#49688;&#50629;\&#49548;&#54532;&#53944;&#50920;&#50612;&#49444;&#44228;&#44277;&#54617;\Git\Fridge\target\classes\gui\AddIngredient$8.class</Jar>
+    <Jar>D:\&#49688;&#50629;\&#49548;&#54532;&#53944;&#50920;&#50612;&#49444;&#44228;&#44277;&#54617;\Git\Fridge\target\classes\gui\AddIngredient$9.class</Jar>
+    <Jar>D:\&#49688;&#50629;\&#49548;&#54532;&#53944;&#50920;&#50612;&#49444;&#44228;&#44277;&#54617;\Git\Fridge\target\classes\gui\CheckDialog.class</Jar>
+    <Jar>D:\&#49688;&#50629;\&#49548;&#54532;&#53944;&#50920;&#50612;&#49444;&#44228;&#44277;&#54617;\Git\Fridge\target\classes\gui\CheckDialog$1.class</Jar>
+    <Jar>D:\&#49688;&#50629;\&#49548;&#54532;&#53944;&#50920;&#50612;&#49444;&#44228;&#44277;&#54617;\Git\Fridge\target\classes\gui\CheckDialog$2.class</Jar>
+    <Jar>D:\&#49688;&#50629;\&#49548;&#54532;&#53944;&#50920;&#50612;&#49444;&#44228;&#44277;&#54617;\Git\Fridge\target\classes\gui\CheckDialog$2$1.class</Jar>
+    <Jar>D:\&#49688;&#50629;\&#49548;&#54532;&#53944;&#50920;&#50612;&#49444;&#44228;&#44277;&#54617;\Git\Fridge\target\classes\gui\First.class</Jar>
+    <Jar>D:\&#49688;&#50629;\&#49548;&#54532;&#53944;&#50920;&#50612;&#49444;&#44228;&#44277;&#54617;\Git\Fridge\target\classes\gui\First$1.class</Jar>
+    <Jar>D:\&#49688;&#50629;\&#49548;&#54532;&#53944;&#50920;&#50612;&#49444;&#44228;&#44277;&#54617;\Git\Fridge\target\classes\gui\First$2.class</Jar>
+    <Jar>D:\&#49688;&#50629;\&#49548;&#54532;&#53944;&#50920;&#50612;&#49444;&#44228;&#44277;&#54617;\Git\Fridge\target\classes\gui\First$3.class</Jar>
+    <Jar>D:\&#49688;&#50629;\&#49548;&#54532;&#53944;&#50920;&#50612;&#49444;&#44228;&#44277;&#54617;\Git\Fridge\target\classes\gui\First$4.class</Jar>
+    <Jar>D:\&#49688;&#50629;\&#49548;&#54532;&#53944;&#50920;&#50612;&#49444;&#44228;&#44277;&#54617;\Git\Fridge\target\classes\gui\First$5.class</Jar>
+    <Jar>D:\&#49688;&#50629;\&#49548;&#54532;&#53944;&#50920;&#50612;&#49444;&#44228;&#44277;&#54617;\Git\Fridge\target\classes\gui\First$6.class</Jar>
+    <Jar>D:\&#49688;&#50629;\&#49548;&#54532;&#53944;&#50920;&#50612;&#49444;&#44228;&#44277;&#54617;\Git\Fridge\target\classes\gui\First$7.class</Jar>
+    <Jar>D:\&#49688;&#50629;\&#49548;&#54532;&#53944;&#50920;&#50612;&#49444;&#44228;&#44277;&#54617;\Git\Fridge\target\classes\gui\NowIngredient.class</Jar>
+    <Jar>D:\&#49688;&#50629;\&#49548;&#54532;&#53944;&#50920;&#50612;&#49444;&#44228;&#44277;&#54617;\Git\Fridge\target\classes\gui\NowIngredient$1.class</Jar>
+    <Jar>D:\&#49688;&#50629;\&#49548;&#54532;&#53944;&#50920;&#50612;&#49444;&#44228;&#44277;&#54617;\Git\Fridge\target\classes\gui\NowIngredient$2.class</Jar>
+    <Jar>D:\&#49688;&#50629;\&#49548;&#54532;&#53944;&#50920;&#50612;&#49444;&#44228;&#44277;&#54617;\Git\Fridge\target\classes\gui\NowIngredient$3.class</Jar>
+    <Jar>D:\&#49688;&#50629;\&#49548;&#54532;&#53944;&#50920;&#50612;&#49444;&#44228;&#44277;&#54617;\Git\Fridge\target\classes\gui\NowIngredient$4.class</Jar>
+    <Jar>D:\&#49688;&#50629;\&#49548;&#54532;&#53944;&#50920;&#50612;&#49444;&#44228;&#44277;&#54617;\Git\Fridge\target\classes\gui\NowIngredient$5.class</Jar>
+    <Jar>D:\&#49688;&#50629;\&#49548;&#54532;&#53944;&#50920;&#50612;&#49444;&#44228;&#44277;&#54617;\Git\Fridge\target\classes\gui\RecipeInfo.class</Jar>
+    <Jar>D:\&#49688;&#50629;\&#49548;&#54532;&#53944;&#50920;&#50612;&#49444;&#44228;&#44277;&#54617;\Git\Fridge\target\classes\gui\RecipeInfo$1.class</Jar>
+    <Jar>D:\&#49688;&#50629;\&#49548;&#54532;&#53944;&#50920;&#50612;&#49444;&#44228;&#44277;&#54617;\Git\Fridge\target\classes\gui\RecipeInfo$2.class</Jar>
+    <Jar>D:\&#49688;&#50629;\&#49548;&#54532;&#53944;&#50920;&#50612;&#49444;&#44228;&#44277;&#54617;\Git\Fridge\target\classes\gui\RecipeInfo$3.class</Jar>
+    <Jar>D:\&#49688;&#50629;\&#49548;&#54532;&#53944;&#50920;&#50612;&#49444;&#44228;&#44277;&#54617;\Git\Fridge\target\classes\gui\SearchFood.class</Jar>
+    <Jar>D:\&#49688;&#50629;\&#49548;&#54532;&#53944;&#50920;&#50612;&#49444;&#44228;&#44277;&#54617;\Git\Fridge\target\classes\gui\SearchFood$1.class</Jar>
+    <Jar>D:\&#49688;&#50629;\&#49548;&#54532;&#53944;&#50920;&#50612;&#49444;&#44228;&#44277;&#54617;\Git\Fridge\target\classes\gui\SearchFood$2.class</Jar>
+    <Jar>D:\&#49688;&#50629;\&#49548;&#54532;&#53944;&#50920;&#50612;&#49444;&#44228;&#44277;&#54617;\Git\Fridge\target\classes\gui\SearchFood$3.class</Jar>
+    <Jar>D:\&#49688;&#50629;\&#49548;&#54532;&#53944;&#50920;&#50612;&#49444;&#44228;&#44277;&#54617;\Git\Fridge\target\classes\gui\SearchFood$4.class</Jar>
+    <Jar>D:\&#49688;&#50629;\&#49548;&#54532;&#53944;&#50920;&#50612;&#49444;&#44228;&#44277;&#54617;\Git\Fridge\target\classes\gui\SearchFood$5.class</Jar>
+    <Jar>D:\&#49688;&#50629;\&#49548;&#54532;&#53944;&#50920;&#50612;&#49444;&#44228;&#44277;&#54617;\Git\Fridge\target\classes\gui\SearchHistory.class</Jar>
+    <Jar>D:\&#49688;&#50629;\&#49548;&#54532;&#53944;&#50920;&#50612;&#49444;&#44228;&#44277;&#54617;\Git\Fridge\target\classes\gui\SearchHistory$1.class</Jar>
+    <Jar>D:\&#49688;&#50629;\&#49548;&#54532;&#53944;&#50920;&#50612;&#49444;&#44228;&#44277;&#54617;\Git\Fridge\target\classes\gui\SearchHistory$2.class</Jar>
+    <Jar>D:\&#49688;&#50629;\&#49548;&#54532;&#53944;&#50920;&#50612;&#49444;&#44228;&#44277;&#54617;\Git\Fridge\target\classes\gui\SearchHistory$3.class</Jar>
+    <Jar>D:\&#49688;&#50629;\&#49548;&#54532;&#53944;&#50920;&#50612;&#49444;&#44228;&#44277;&#54617;\Git\Fridge\target\classes\gui\SearchRecipe.class</Jar>
+    <Jar>D:\&#49688;&#50629;\&#49548;&#54532;&#53944;&#50920;&#50612;&#49444;&#44228;&#44277;&#54617;\Git\Fridge\target\classes\gui\SearchRecipe$1.class</Jar>
+    <Jar>D:\&#49688;&#50629;\&#49548;&#54532;&#53944;&#50920;&#50612;&#49444;&#44228;&#44277;&#54617;\Git\Fridge\target\classes\gui\SearchRecipe$2.class</Jar>
+    <Jar>D:\&#49688;&#50629;\&#49548;&#54532;&#53944;&#50920;&#50612;&#49444;&#44228;&#44277;&#54617;\Git\Fridge\target\classes\gui\SearchRecipe$3.class</Jar>
+    <Jar>D:\&#49688;&#50629;\&#49548;&#54532;&#53944;&#50920;&#50612;&#49444;&#44228;&#44277;&#54617;\Git\Fridge\target\classes\MainProgress\History.class</Jar>
+    <Jar>D:\&#49688;&#50629;\&#49548;&#54532;&#53944;&#50920;&#50612;&#49444;&#44228;&#44277;&#54617;\Git\Fridge\target\classes\MainProgress\MainProgress.class</Jar>
+    <Jar>D:\&#49688;&#50629;\&#49548;&#54532;&#53944;&#50920;&#50612;&#49444;&#44228;&#44277;&#54617;\Git\Fridge\target\classes\MainProgress\RemovedIngredient.class</Jar>
+    <Jar>D:\&#49688;&#50629;\&#49548;&#54532;&#53944;&#50920;&#50612;&#49444;&#44228;&#44277;&#54617;\Git\Fridge\target\classes\SearchFood\GetHtmlDoc.class</Jar>
+    <Jar>D:\&#49688;&#50629;\&#49548;&#54532;&#53944;&#50920;&#50612;&#49444;&#44228;&#44277;&#54617;\Git\Fridge\target\classes\SearchFood\RecipeInfo.class</Jar>
+    <Jar>D:\&#49688;&#50629;\&#49548;&#54532;&#53944;&#50920;&#50612;&#49444;&#44228;&#44277;&#54617;\Git\Fridge\target\classes\SearchFood\SearchFood.class</Jar>
+    <Jar>D:\&#49688;&#50629;\&#49548;&#54532;&#53944;&#50920;&#50612;&#49444;&#44228;&#44277;&#54617;\Git\Fridge\target\classes\FileManager\RequestSearchGenre.class</Jar>
+    <Jar>D:\&#49688;&#50629;\&#49548;&#54532;&#53944;&#50920;&#50612;&#49444;&#44228;&#44277;&#54617;\Git\Fridge\target\classes\gui\CheckDialog$1$1.class</Jar>
+    <Jar>D:\&#49688;&#50629;\&#49548;&#54532;&#53944;&#50920;&#50612;&#49444;&#44228;&#44277;&#54617;\Git\Fridge\target\classes\MainProgress\Ingredient.class</Jar>
+    <Jar>D:\&#49688;&#50629;\&#49548;&#54532;&#53944;&#50920;&#50612;&#49444;&#44228;&#44277;&#54617;\Git\Fridge\target\classes\TestDrive\TestDrive.class</Jar>
+    <AuxClasspathEntry>D:\&#49688;&#50629;\&#49548;&#54532;&#53944;&#50920;&#50612;&#49444;&#44228;&#44277;&#54617;\Git\Fridge\target\classes</AuxClasspathEntry>
+    <AuxClasspathEntry>D:\&#49688;&#50629;\&#49548;&#54532;&#53944;&#50920;&#50612;&#49444;&#44228;&#44277;&#54617;\Git\Fridge\.scannerwork\findbugs\annotations.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>D:\&#49688;&#50629;\&#49548;&#54532;&#53944;&#50920;&#50612;&#49444;&#44228;&#44277;&#54617;\Git\Fridge\.scannerwork\findbugs\jsr305.jar</AuxClasspathEntry>
+    <WrkDir>D:\&#49688;&#50629;\&#49548;&#54532;&#53944;&#50920;&#50612;&#49444;&#44228;&#44277;&#54617;\Git\Fridge\.scannerwork</WrkDir>
+  </Project>
+  <Errors errors="0" missingClasses="4">
+    <MissingClass>org.jsoup.Connection</MissingClass>
+    <MissingClass>org.jsoup.Jsoup</MissingClass>
+    <MissingClass>org.jsoup.nodes.Document</MissingClass>
+    <MissingClass>org.jsoup.select.Elements</MissingClass>
+  </Errors>
+  <FindBugsSummary timestamp="Tue, 4 Jun 2019 02:51:28 +0900" total_classes="90" referenced_classes="442" total_bugs="0" total_size="2895" num_packages="10" java_version="1.8.0_121" vm_version="25.121-b13" cpu_seconds="30.59" clock_seconds="7.11" peak_mbytes="723.66" alloc_mbytes="2695.50" gc_seconds="0.08">
+    <FileStats path="FileManager/RequestSearchGenre.java" bugCount="0" size="90"/>
+    <FileStats path="MainProgress/Ingredient.java" bugCount="0" size="11"/>
+    <FileStats path="TestDrive.java" bugCount="0" size="9"/>
+    <FileStats path="TestDrive/TestDrive.java" bugCount="0" size="6"/>
+    <FileStats path="apiManager/ApiManager.java" bugCount="0" size="21"/>
+    <FileStats path="apiManager/FindFoodInfo.java" bugCount="0" size="39"/>
+    <FileStats path="apiManager/FindIngredient.java" bugCount="0" size="42"/>
+    <FileStats path="apiManager/FindRecipe.java" bugCount="0" size="42"/>
+    <FileStats path="apiManager/GetInfo.java" bugCount="0" size="41"/>
+    <FileStats path="apiManager/IngredientPrice.java" bugCount="0" size="44"/>
+    <FileStats path="apiManager/ServiceKey.java" bugCount="0" size="6"/>
+    <FileStats path="dataSet/Aggregate.java" bugCount="0" size="2"/>
+    <FileStats path="dataSet/Builder.java" bugCount="0" size="2"/>
+    <FileStats path="dataSet/Food.java" bugCount="0" size="24"/>
+    <FileStats path="dataSet/FoodBuilder.java" bugCount="0" size="23"/>
+    <FileStats path="dataSet/FoodIterator.java" bugCount="0" size="19"/>
+    <FileStats path="dataSet/FoodSet.java" bugCount="0" size="50"/>
+    <FileStats path="dataSet/Ingredient.java" bugCount="0" size="27"/>
+    <FileStats path="dataSet/IngredientBuilder.java" bugCount="0" size="28"/>
+    <FileStats path="dataSet/IngredientList.java" bugCount="0" size="50"/>
+    <FileStats path="dataSet/IngredientPriceSet.java" bugCount="0" size="39"/>
+    <FileStats path="dataSet/Iterator.java" bugCount="0" size="3"/>
+    <FileStats path="dataSet/Recipe.java" bugCount="0" size="24"/>
+    <FileStats path="dataSet/RecipeIterator.java" bugCount="0" size="19"/>
+    <FileStats path="dataSet/RecipeSet.java" bugCount="0" size="57"/>
+    <FileStats path="dataSet/RecipeSetBuilder.java" bugCount="0" size="23"/>
+    <FileStats path="fileManager/FileManager.java" bugCount="0" size="9"/>
+    <FileStats path="fileManager/ReadFile.java" bugCount="0" size="66"/>
+    <FileStats path="fileManager/SaveFile.java" bugCount="0" size="63"/>
+    <FileStats path="gui/AddIngredient.java" bugCount="0" size="908"/>
+    <FileStats path="gui/CheckDialog.java" bugCount="0" size="87"/>
+    <FileStats path="gui/First.java" bugCount="0" size="179"/>
+    <FileStats path="gui/NowIngredient.java" bugCount="0" size="193"/>
+    <FileStats path="gui/RecipeInfo.java" bugCount="0" size="133"/>
+    <FileStats path="gui/SearchFood.java" bugCount="0" size="149"/>
+    <FileStats path="gui/SearchHistory.java" bugCount="0" size="93"/>
+    <FileStats path="gui/SearchRecipe.java" bugCount="0" size="91"/>
+    <FileStats path="mainProgress/History.java" bugCount="0" size="15"/>
+    <FileStats path="mainProgress/MainProgress.java" bugCount="0" size="70"/>
+    <FileStats path="mainProgress/RemovedIngredient.java" bugCount="0" size="8"/>
+    <FileStats path="searchFood/GetHtmlDoc.java" bugCount="0" size="32"/>
+    <FileStats path="searchFood/RecipeInfo.java" bugCount="0" size="23"/>
+    <FileStats path="searchFood/SearchFood.java" bugCount="0" size="35"/>
+    <PackageStats package="" total_bugs="0" total_types="1" total_size="9">
+      <ClassStats class="TestDrive" sourceFile="TestDrive.java" interface="false" size="9" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="FileManager" total_bugs="0" total_types="1" total_size="90">
+      <ClassStats class="FileManager.RequestSearchGenre" sourceFile="RequestSearchGenre.java" interface="false" size="90" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="MainProgress" total_bugs="0" total_types="1" total_size="11">
+      <ClassStats class="MainProgress.Ingredient" sourceFile="Ingredient.java" interface="false" size="11" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="TestDrive" total_bugs="0" total_types="1" total_size="6">
+      <ClassStats class="TestDrive.TestDrive" sourceFile="TestDrive.java" interface="false" size="6" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="apiManager" total_bugs="0" total_types="7" total_size="235">
+      <ClassStats class="apiManager.ApiManager" sourceFile="ApiManager.java" interface="false" size="21" bugs="0"/>
+      <ClassStats class="apiManager.FindFoodInfo" sourceFile="FindFoodInfo.java" interface="false" size="39" bugs="0"/>
+      <ClassStats class="apiManager.FindIngredient" sourceFile="FindIngredient.java" interface="false" size="42" bugs="0"/>
+      <ClassStats class="apiManager.FindRecipe" sourceFile="FindRecipe.java" interface="false" size="42" bugs="0"/>
+      <ClassStats class="apiManager.GetInfo" sourceFile="GetInfo.java" interface="false" size="41" bugs="0"/>
+      <ClassStats class="apiManager.IngredientPrice" sourceFile="IngredientPrice.java" interface="false" size="44" bugs="0"/>
+      <ClassStats class="apiManager.ServiceKey" sourceFile="ServiceKey.java" interface="false" size="6" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="dataSet" total_bugs="0" total_types="15" total_size="390">
+      <ClassStats class="dataSet.Aggregate" sourceFile="Aggregate.java" interface="true" size="2" bugs="0"/>
+      <ClassStats class="dataSet.Builder" sourceFile="Builder.java" interface="true" size="2" bugs="0"/>
+      <ClassStats class="dataSet.Food" sourceFile="Food.java" interface="false" size="24" bugs="0"/>
+      <ClassStats class="dataSet.FoodBuilder" sourceFile="FoodBuilder.java" interface="false" size="23" bugs="0"/>
+      <ClassStats class="dataSet.FoodIterator" sourceFile="FoodIterator.java" interface="false" size="19" bugs="0"/>
+      <ClassStats class="dataSet.FoodSet" sourceFile="FoodSet.java" interface="false" size="50" bugs="0"/>
+      <ClassStats class="dataSet.Ingredient" sourceFile="Ingredient.java" interface="false" size="27" bugs="0"/>
+      <ClassStats class="dataSet.IngredientBuilder" sourceFile="IngredientBuilder.java" interface="false" size="28" bugs="0"/>
+      <ClassStats class="dataSet.IngredientList" sourceFile="IngredientList.java" interface="false" size="50" bugs="0"/>
+      <ClassStats class="dataSet.IngredientPriceSet" sourceFile="IngredientPriceSet.java" interface="false" size="39" bugs="0"/>
+      <ClassStats class="dataSet.Iterator" sourceFile="Iterator.java" interface="true" size="3" bugs="0"/>
+      <ClassStats class="dataSet.Recipe" sourceFile="Recipe.java" interface="false" size="24" bugs="0"/>
+      <ClassStats class="dataSet.RecipeIterator" sourceFile="RecipeIterator.java" interface="false" size="19" bugs="0"/>
+      <ClassStats class="dataSet.RecipeSet" sourceFile="RecipeSet.java" interface="false" size="57" bugs="0"/>
+      <ClassStats class="dataSet.RecipeSetBuilder" sourceFile="RecipeSetBuilder.java" interface="false" size="23" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="fileManager" total_bugs="0" total_types="3" total_size="138">
+      <ClassStats class="fileManager.FileManager" sourceFile="FileManager.java" interface="false" size="9" bugs="0"/>
+      <ClassStats class="fileManager.ReadFile" sourceFile="ReadFile.java" interface="false" size="66" bugs="0"/>
+      <ClassStats class="fileManager.SaveFile" sourceFile="SaveFile.java" interface="false" size="63" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="gui" total_bugs="0" total_types="55" total_size="1833">
+      <ClassStats class="gui.AddIngredient" sourceFile="AddIngredient.java" interface="false" size="790" bugs="0"/>
+      <ClassStats class="gui.AddIngredient$1" sourceFile="AddIngredient.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="gui.AddIngredient$10" sourceFile="AddIngredient.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="gui.AddIngredient$11" sourceFile="AddIngredient.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="gui.AddIngredient$12" sourceFile="AddIngredient.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="gui.AddIngredient$13" sourceFile="AddIngredient.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="gui.AddIngredient$14" sourceFile="AddIngredient.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="gui.AddIngredient$15" sourceFile="AddIngredient.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="gui.AddIngredient$16" sourceFile="AddIngredient.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="gui.AddIngredient$17" sourceFile="AddIngredient.java" interface="false" size="6" bugs="0"/>
+      <ClassStats class="gui.AddIngredient$2" sourceFile="AddIngredient.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="gui.AddIngredient$3" sourceFile="AddIngredient.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="gui.AddIngredient$4" sourceFile="AddIngredient.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="gui.AddIngredient$5" sourceFile="AddIngredient.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="gui.AddIngredient$6" sourceFile="AddIngredient.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="gui.AddIngredient$7" sourceFile="AddIngredient.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="gui.AddIngredient$8" sourceFile="AddIngredient.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="gui.AddIngredient$9" sourceFile="AddIngredient.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="gui.CheckDialog" sourceFile="CheckDialog.java" interface="false" size="58" bugs="0"/>
+      <ClassStats class="gui.CheckDialog$1" sourceFile="CheckDialog.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="gui.CheckDialog$1$1" sourceFile="CheckDialog.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="gui.CheckDialog$2" sourceFile="CheckDialog.java" interface="false" size="8" bugs="0"/>
+      <ClassStats class="gui.CheckDialog$2$1" sourceFile="CheckDialog.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="gui.First" sourceFile="First.java" interface="false" size="131" bugs="0"/>
+      <ClassStats class="gui.First$1" sourceFile="First.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="gui.First$2" sourceFile="First.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="gui.First$3" sourceFile="First.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="gui.First$4" sourceFile="First.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="gui.First$5" sourceFile="First.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="gui.First$6" sourceFile="First.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="gui.First$7" sourceFile="First.java" interface="false" size="6" bugs="0"/>
+      <ClassStats class="gui.NowIngredient" sourceFile="NowIngredient.java" interface="false" size="159" bugs="0"/>
+      <ClassStats class="gui.NowIngredient$1" sourceFile="NowIngredient.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="gui.NowIngredient$2" sourceFile="NowIngredient.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="gui.NowIngredient$3" sourceFile="NowIngredient.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="gui.NowIngredient$4" sourceFile="NowIngredient.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="gui.NowIngredient$5" sourceFile="NowIngredient.java" interface="false" size="6" bugs="0"/>
+      <ClassStats class="gui.RecipeInfo" sourceFile="RecipeInfo.java" interface="false" size="113" bugs="0"/>
+      <ClassStats class="gui.RecipeInfo$1" sourceFile="RecipeInfo.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="gui.RecipeInfo$2" sourceFile="RecipeInfo.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="gui.RecipeInfo$3" sourceFile="RecipeInfo.java" interface="false" size="6" bugs="0"/>
+      <ClassStats class="gui.SearchFood" sourceFile="SearchFood.java" interface="false" size="115" bugs="0"/>
+      <ClassStats class="gui.SearchFood$1" sourceFile="SearchFood.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="gui.SearchFood$2" sourceFile="SearchFood.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="gui.SearchFood$3" sourceFile="SearchFood.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="gui.SearchFood$4" sourceFile="SearchFood.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="gui.SearchFood$5" sourceFile="SearchFood.java" interface="false" size="6" bugs="0"/>
+      <ClassStats class="gui.SearchHistory" sourceFile="SearchHistory.java" interface="false" size="73" bugs="0"/>
+      <ClassStats class="gui.SearchHistory$1" sourceFile="SearchHistory.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="gui.SearchHistory$2" sourceFile="SearchHistory.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="gui.SearchHistory$3" sourceFile="SearchHistory.java" interface="false" size="6" bugs="0"/>
+      <ClassStats class="gui.SearchRecipe" sourceFile="SearchRecipe.java" interface="false" size="71" bugs="0"/>
+      <ClassStats class="gui.SearchRecipe$1" sourceFile="SearchRecipe.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="gui.SearchRecipe$2" sourceFile="SearchRecipe.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="gui.SearchRecipe$3" sourceFile="SearchRecipe.java" interface="false" size="6" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="mainProgress" total_bugs="0" total_types="3" total_size="93">
+      <ClassStats class="mainProgress.History" sourceFile="History.java" interface="false" size="15" bugs="0"/>
+      <ClassStats class="mainProgress.MainProgress" sourceFile="MainProgress.java" interface="false" size="70" bugs="0"/>
+      <ClassStats class="mainProgress.RemovedIngredient" sourceFile="RemovedIngredient.java" interface="false" size="8" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="searchFood" total_bugs="0" total_types="3" total_size="90">
+      <ClassStats class="searchFood.GetHtmlDoc" sourceFile="GetHtmlDoc.java" interface="false" size="32" bugs="0"/>
+      <ClassStats class="searchFood.RecipeInfo" sourceFile="RecipeInfo.java" interface="false" size="23" bugs="0"/>
+      <ClassStats class="searchFood.SearchFood" sourceFile="SearchFood.java" interface="false" size="35" bugs="0"/>
+    </PackageStats>
+    <FindBugsProfile>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.ClassDataAnalysisEngine" totalMilliseconds="1217" invocations="1754" avgMicrosecondsPerInvocation="693" maxMicrosecondsPerInvocation="20977" standardDeviationMicrosecondsPerInvocation="784"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.ClassInfoAnalysisEngine" totalMilliseconds="461" invocations="1750" avgMicrosecondsPerInvocation="263" maxMicrosecondsPerInvocation="16792" standardDeviationMicrosecondsPerInvocation="685"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindNoSideEffectMethods" totalMilliseconds="298" invocations="442" avgMicrosecondsPerInvocation="675" maxMicrosecondsPerInvocation="12541" standardDeviationMicrosecondsPerInvocation="1409"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FieldItemSummary" totalMilliseconds="291" invocations="442" avgMicrosecondsPerInvocation="659" maxMicrosecondsPerInvocation="12128" standardDeviationMicrosecondsPerInvocation="1386"/>
+      <ClassProfile name="com.h3xstream.findsecbugs.taintanalysis.TaintDataflowEngine" totalMilliseconds="180" invocations="381" avgMicrosecondsPerInvocation="473" maxMicrosecondsPerInvocation="18845" standardDeviationMicrosecondsPerInvocation="1310"/>
+      <ClassProfile name="edu.umd.cs.findbugs.OpcodeStack$JumpInfoFactory" totalMilliseconds="177" invocations="1099" avgMicrosecondsPerInvocation="161" maxMicrosecondsPerInvocation="4891" standardDeviationMicrosecondsPerInvocation="270"/>
+      <ClassProfile name="edu.umd.cs.findbugs.ba.npe.NullDerefAndRedundantComparisonFinder" totalMilliseconds="170" invocations="372" avgMicrosecondsPerInvocation="459" maxMicrosecondsPerInvocation="45279" standardDeviationMicrosecondsPerInvocation="2423"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.ValueNumberDataflowFactory" totalMilliseconds="154" invocations="404" avgMicrosecondsPerInvocation="382" maxMicrosecondsPerInvocation="12972" standardDeviationMicrosecondsPerInvocation="1090"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.TypeDataflowFactory" totalMilliseconds="149" invocations="403" avgMicrosecondsPerInvocation="370" maxMicrosecondsPerInvocation="12535" standardDeviationMicrosecondsPerInvocation="971"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.IsNullValueDataflowFactory" totalMilliseconds="147" invocations="381" avgMicrosecondsPerInvocation="388" maxMicrosecondsPerInvocation="19098" standardDeviationMicrosecondsPerInvocation="1243"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.UnconditionalValueDerefDataflowFactory" totalMilliseconds="145" invocations="372" avgMicrosecondsPerInvocation="391" maxMicrosecondsPerInvocation="38099" standardDeviationMicrosecondsPerInvocation="2060"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.CFGFactory" totalMilliseconds="109" invocations="390" avgMicrosecondsPerInvocation="279" maxMicrosecondsPerInvocation="17037" standardDeviationMicrosecondsPerInvocation="947"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindRefComparison$SpecialTypeAnalysis" totalMilliseconds="108" invocations="336" avgMicrosecondsPerInvocation="322" maxMicrosecondsPerInvocation="34985" standardDeviationMicrosecondsPerInvocation="1956"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.MethodGenFactory" totalMilliseconds="82" invocations="390" avgMicrosecondsPerInvocation="210" maxMicrosecondsPerInvocation="49482" standardDeviationMicrosecondsPerInvocation="2504"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.NoteDirectlyRelevantTypeQualifiers" totalMilliseconds="81" invocations="442" avgMicrosecondsPerInvocation="184" maxMicrosecondsPerInvocation="6262" standardDeviationMicrosecondsPerInvocation="466"/>
+      <ClassProfile name="edu.umd.cs.findbugs.util.TopologicalSort" totalMilliseconds="73" invocations="1697" avgMicrosecondsPerInvocation="43" maxMicrosecondsPerInvocation="3260" standardDeviationMicrosecondsPerInvocation="126"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.JavaClassAnalysisEngine" totalMilliseconds="69" invocations="557" avgMicrosecondsPerInvocation="124" maxMicrosecondsPerInvocation="18316" standardDeviationMicrosecondsPerInvocation="795"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.BuildObligationPolicyDatabase" totalMilliseconds="67" invocations="442" avgMicrosecondsPerInvocation="152" maxMicrosecondsPerInvocation="1867" standardDeviationMicrosecondsPerInvocation="237"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FunctionsThatMightBeMistakenForProcedures" totalMilliseconds="56" invocations="442" avgMicrosecondsPerInvocation="127" maxMicrosecondsPerInvocation="5401" standardDeviationMicrosecondsPerInvocation="352"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.ExplicitSerialization" totalMilliseconds="54" invocations="442" avgMicrosecondsPerInvocation="122" maxMicrosecondsPerInvocation="13383" standardDeviationMicrosecondsPerInvocation="956"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.OverridingEqualsNotSymmetrical" totalMilliseconds="50" invocations="442" avgMicrosecondsPerInvocation="113" maxMicrosecondsPerInvocation="8362" standardDeviationMicrosecondsPerInvocation="441"/>
+      <ClassProfile name="com.h3xstream.findsecbugs.crypto.cipher.TDesUsageDetector" totalMilliseconds="46" invocations="90" avgMicrosecondsPerInvocation="519" maxMicrosecondsPerInvocation="35406" standardDeviationMicrosecondsPerInvocation="3703"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.CalledMethods" totalMilliseconds="46" invocations="442" avgMicrosecondsPerInvocation="104" maxMicrosecondsPerInvocation="2157" standardDeviationMicrosecondsPerInvocation="218"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.BuildStringPassthruGraph" totalMilliseconds="40" invocations="442" avgMicrosecondsPerInvocation="92" maxMicrosecondsPerInvocation="2842" standardDeviationMicrosecondsPerInvocation="225"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.ConstantDataflowFactory" totalMilliseconds="35" invocations="381" avgMicrosecondsPerInvocation="93" maxMicrosecondsPerInvocation="2442" standardDeviationMicrosecondsPerInvocation="226"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindInconsistentSync2" totalMilliseconds="34" invocations="90" avgMicrosecondsPerInvocation="386" maxMicrosecondsPerInvocation="7081" standardDeviationMicrosecondsPerInvocation="940"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.LoadOfKnownNullValue" totalMilliseconds="33" invocations="90" avgMicrosecondsPerInvocation="371" maxMicrosecondsPerInvocation="6764" standardDeviationMicrosecondsPerInvocation="797"/>
+      <ClassProfile name="com.h3xstream.findsecbugs.file.PathTraversalDetector" totalMilliseconds="31" invocations="90" avgMicrosecondsPerInvocation="346" maxMicrosecondsPerInvocation="6202" standardDeviationMicrosecondsPerInvocation="760"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.DumbMethods" totalMilliseconds="30" invocations="90" avgMicrosecondsPerInvocation="337" maxMicrosecondsPerInvocation="5429" standardDeviationMicrosecondsPerInvocation="761"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.EqualsOperandShouldHaveClassCompatibleWithThis" totalMilliseconds="29" invocations="442" avgMicrosecondsPerInvocation="67" maxMicrosecondsPerInvocation="1768" standardDeviationMicrosecondsPerInvocation="149"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.ReflectiveClasses" totalMilliseconds="29" invocations="442" avgMicrosecondsPerInvocation="65" maxMicrosecondsPerInvocation="2221" standardDeviationMicrosecondsPerInvocation="168"/>
+      <ClassProfile name="com.h3xstream.findsecbugs.injection.script.ScriptInjectionDetector" totalMilliseconds="26" invocations="90" avgMicrosecondsPerInvocation="296" maxMicrosecondsPerInvocation="9857" standardDeviationMicrosecondsPerInvocation="1063"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindOpenStream" totalMilliseconds="26" invocations="90" avgMicrosecondsPerInvocation="296" maxMicrosecondsPerInvocation="9071" standardDeviationMicrosecondsPerInvocation="1089"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.UnreadFields" totalMilliseconds="26" invocations="90" avgMicrosecondsPerInvocation="291" maxMicrosecondsPerInvocation="3451" standardDeviationMicrosecondsPerInvocation="473"/>
+      <ClassProfile name="com.h3xstream.findsecbugs.injection.script.OgnlInjectionDetector" totalMilliseconds="26" invocations="90" avgMicrosecondsPerInvocation="289" maxMicrosecondsPerInvocation="9937" standardDeviationMicrosecondsPerInvocation="1064"/>
+      <ClassProfile name="edu.umd.cs.findbugs.DetectorToDetector2Adapter" totalMilliseconds="25" invocations="19256" avgMicrosecondsPerInvocation="1" maxMicrosecondsPerInvocation="56" standardDeviationMicrosecondsPerInvocation="1"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.CheckRelaxingNullnessAnnotation" totalMilliseconds="24" invocations="90" avgMicrosecondsPerInvocation="267" maxMicrosecondsPerInvocation="12610" standardDeviationMicrosecondsPerInvocation="1315"/>
+      <ClassProfile name="com.h3xstream.findsecbugs.HttpResponseSplittingDetector" totalMilliseconds="23" invocations="90" avgMicrosecondsPerInvocation="265" maxMicrosecondsPerInvocation="9029" standardDeviationMicrosecondsPerInvocation="974"/>
+      <ClassProfile name="com.h3xstream.findsecbugs.injection.crlf.CrlfLogInjectionDetector" totalMilliseconds="23" invocations="90" avgMicrosecondsPerInvocation="265" maxMicrosecondsPerInvocation="8674" standardDeviationMicrosecondsPerInvocation="939"/>
+      <ClassProfile name="com.h3xstream.findsecbugs.injection.command.CommandInjectionDetector" totalMilliseconds="23" invocations="90" avgMicrosecondsPerInvocation="264" maxMicrosecondsPerInvocation="6475" standardDeviationMicrosecondsPerInvocation="729"/>
+    </FindBugsProfile>
+  </FindBugsSummary>
+  <ClassFeatures></ClassFeatures>
+  <History></History>
+</BugCollection>
